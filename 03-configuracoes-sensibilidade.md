@@ -1,3 +1,7 @@
+---
+title: Configurações e Sensibilidade
+---
+
 # Configurações e Medidas (por @robinwobin_)
 
 ## Configurações e erros comuns
@@ -55,3 +59,7 @@ Trocar a sensibilidade dependendo do cenário ajuda a desenvolver um controle de
 | Click Timing | Reading | 45 |
 | Click Timing | Precision | 60 |
 | Click Timing | Stability | 50 |
+
+---
+
+[← Voltar ao índice](./index.html)

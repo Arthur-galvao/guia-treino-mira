@@ -1,3 +1,7 @@
+---
+title: Treino In-Game
+---
+
 # Treino In-Game: Movimentação e Mecânica, por KoreyVAL
 
 Esse plano foca em integrar o controle de mouse com a movimentação dentro do Valorant, construindo mecânicas limpas de peek, counterstrafe e snappiness.
@@ -69,3 +73,7 @@ Range freestyle com bots de prática no centro, 3 minutos: alterne entre tapping
 50 elims no Range, movimentação natural, 2 vezes: pense menos. Atire como num jogo real, imaginando que o bot está atirando de volta, e deixe a memória muscular fluir. Busque uns 90% de precisão no primeiro tiro.
 
 2 Deathmatches de alta intenção: incorpore tapping e micro crouches junto ao snappy do primeiro tiro, e reduza o tempo de transição pra segunda rajada caso decida dar um tap inicial em vez de um burst.
+
+---
+
+[← Voltar ao índice](./index.html)

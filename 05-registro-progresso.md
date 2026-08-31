@@ -1,3 +1,7 @@
+---
+title: Registro de Progresso
+---
+
 # Registro de Thresholds e Contatos, por Escalate / thrFPS
 
 ## Como anotar seu progresso
@@ -25,3 +29,7 @@ O threshold só muda quando sua consistência real evolui, nunca por causa de um
 Discord: `frxnz.`
 Twitter (X): [@thrFPS](https://twitter.com/thrFPS)
 Konect: https://konect.gg/thrFPS
+
+---
+
+[← Voltar ao índice](./index.html)

@@ -1,3 +1,7 @@
+---
+title: Referências
+---
+
 # Referências
 
 - Escalate & thrFPS. (2023). *Flick Tech: Desenvolvendo a Anatomia do Flick e o Método de Thresholds*. Guia Técnico e Coaching de Aim Training. Disponível via Konect.
@@ -6,3 +10,7 @@
 - Robinwobin (@robinwobin_). (2023). *A Comprehensive Guide to Aim Training & Viscose Benchmarks*. Viscose Aim Methodology & Sensitivity Analysis.
 - The KovaaK's Team / The Meta. (2024). *KovaaK's Aim Trainer* (Software & Mechanics Benchmarking).
 - Viscose. (2023). *Viscose Benchmark S2 & Entry Benchmarks*. Raw Input Benchmark Web Tracker.
+
+---
+
+[← Voltar ao índice](./index.html)

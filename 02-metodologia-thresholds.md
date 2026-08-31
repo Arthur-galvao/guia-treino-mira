@@ -1,3 +1,7 @@
+---
+title: Metodologia e Thresholds
+---
+
 # Metodologia: Foco em Fraquezas e o Método de Thresholds
 
 ## Por que focar nas suas fraquezas (método Viscose, por robinwobin)
@@ -29,3 +33,7 @@ Em 5 tentativas você tirou 1000, 970, 890, 900 e 980 pontos. Seu PB é 1000. Se
 Nas playlists, só avança pra próxima task depois de bater o Threshold definido pra ela. Se você está passando muito rápido pelas tasks, menos de 15 minutos na playlist inteira, repete ela e aumenta o Threshold: sinal de que está fácil demais pro seu nível.
 
 E o Threshold só sobe quando sua consistência real melhora de verdade. Nunca por causa de uma run de sorte isolada.
+
+---
+
+[← Voltar ao índice](./index.html)

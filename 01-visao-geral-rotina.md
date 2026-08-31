@@ -1,3 +1,7 @@
+---
+title: Visão Geral da Rotina Diária
+---
+
 # Visão Geral da Rotina Diária
 
 Essa é a sequência que você segue em toda sessão de treino. Não pula etapa: cada uma prepara o terreno pra próxima.
@@ -25,3 +29,7 @@ Segue o plano de movimentação do KoreyVAL pro Valorant, usando The Range e Dea
 ---
 
 Essas quatro etapas fecham o ciclo. As próximas seções explicam o porquê de cada uma e dão o passo a passo.
+
+---
+
+[← Voltar ao índice](./index.html)

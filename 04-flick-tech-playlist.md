@@ -1,3 +1,7 @@
+---
+title: Flick Tech - Playlist
+---
+
 # Flick Tech, Aim Coaching por thrFPS
 
 Código no KovaaK's: `KovaaKsSwitchingSeagreenHeaven`
@@ -39,3 +43,7 @@ Primeira task sem vibração ou movimento de alvo, e esse é justamente o desafi
 ### 5. WALLHACK - VBRClick Hard (GRIND)
 
 Grinda até bater, no mínimo, 1000 pontos.
+
+---
+
+[← Voltar ao índice](./index.html)
