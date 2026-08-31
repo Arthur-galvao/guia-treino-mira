@@ -7,32 +7,23 @@
 
 ## Onde jogar e como progredir de dificuldade
 
-- **Iniciantes:** comece pelo "Viscose Entry Benchmarks".
-- **Intermediários/avançados:** comece pelo "Viscose Benchmarks S2".
-- **Acompanhamento:** use o Rastreador Web Benchmark (Raw Input) pra registrar tudo.
+Se você é iniciante, começa pelo "Viscose Entry Benchmarks". Intermediário ou avançado, começa direto pelo "Viscose Benchmarks S2". Pra acompanhar tudo, usa o Rastreador Web Benchmark (Raw Input).
 
-### Quando subir de dificuldade?
+Quando subir de dificuldade? Só depois de alcançar o segundo ranque mais alto e completar o terceiro mais alto. E só começa a incorporar cenários mais difíceis quando estiver, no mínimo, 4 ranques abaixo do máximo nos cenários fáceis.
 
-Não suba antes de:
-
-1. Alcançar o segundo ranque mais alto, **e**
-2. Completar o terceiro ranque mais alto.
-
-Só comece a incorporar cenários mais difíceis quando estiver, no mínimo, 4 ranques abaixo do máximo nos cenários fáceis.
-
-- Vídeo: Viscose Benchmark — Parte 1 | Parte 2
+- Vídeo: Viscose Benchmark, Parte 1 e Parte 2
 
 ## O que é cm/360?
 
-cm/360 é a medida universal de quantos centímetros você precisa mover o mouse fisicamente pra dar uma volta completa de 360° no jogo. Mude a escala de sensibilidade do KovaaK's pra cm/360 — assim você consegue comunicar e ajustar sua sensibilidade com precisão em qualquer jogo, não só no KovaaK's.
+cm/360 é quantos centímetros você move o mouse fisicamente pra dar uma volta completa de 360° no jogo. Muda a escala de sensibilidade do KovaaK's pra cm/360: assim dá pra comunicar e ajustar sua sensibilidade com precisão em qualquer jogo, não só no KovaaK's.
 
 - Conversor de sensibilidade: Find My Mouse
 
 ## Sensibilidade por tipo de cenário
 
-Trocar sua sensibilidade dependendo do tipo de cenário te ajuda a desenvolver um controle de mouse mais completo e trabalhar diferentes grupos musculares de forma equilibrada, em vez de treinar sempre do mesmo jeito.
+Trocar a sensibilidade dependendo do cenário ajuda a desenvolver um controle de mouse mais completo e trabalha diferentes grupos musculares de forma equilibrada, em vez de treinar sempre do mesmo jeito.
 
-### Voltaic Benchmark — categorias
+### Voltaic Benchmark, categorias
 
 | Categoria | Sensibilidade recomendada (cm/360) |
 |---|---|
@@ -46,7 +37,7 @@ Trocar sua sensibilidade dependendo do tipo de cenário te ajuda a desenvolver u
 | Evasive Switching | 44 |
 | Stability Switching | 54 |
 
-### Viscose Benchmark — categorias
+### Viscose Benchmark, categorias
 
 | Categoria | Subcategoria | Sensibilidade recomendada (cm/360) |
 |---|---|---|

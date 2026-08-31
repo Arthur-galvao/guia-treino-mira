@@ -1,0 +1,8 @@
+- [Início](00-indice.md)
+- [Visão geral da rotina](01-visao-geral-rotina.md)
+- [Metodologia e thresholds](02-metodologia-thresholds.md)
+- [Configurações e sensibilidade](03-configuracoes-sensibilidade.md)
+- [Flick Tech, playlist](04-flick-tech-playlist.md)
+- [Registro de progresso](05-registro-progresso.md)
+- [Treino in-game](06-treino-in-game-movimentacao.md)
+- [Referências](07-referencias.md)

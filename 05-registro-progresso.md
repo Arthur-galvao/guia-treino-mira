@@ -1,8 +1,8 @@
-# Registro de Thresholds e Contatos (por Escalate - thrFPS)
+# Registro de Thresholds e Contatos, por Escalate / thrFPS
 
 ## Como anotar seu progresso
 
-Use sempre este formato padrão pra registrar suas sessões:
+Usa sempre este formato pra registrar suas sessões:
 
 ```
 (nome da task) - (sensibilidade e FOV)
@@ -16,6 +16,12 @@ VT Threeshot ADVANCED - 64cm 103
 1000 [970] (18/10) 1050 [970] (19/10) 1060 [990] (22/10)
 ```
 
-Nesse exemplo: no dia 18/10 o PR foi 1000 com threshold em 970; no dia 19/10 o PR subiu pra 1050 mas o threshold continuou em 970 (ainda não tinha consistência suficiente pra subir); só no dia 22/10 o threshold finalmente subiu pra 990, junto com um novo PR de 1060.
+No dia 18/10 o PR foi 1000 com threshold em 970. No dia 19/10 o PR subiu pra 1050, mas o threshold ficou em 970: ainda não tinha consistência suficiente pra subir. Só no dia 22/10 o threshold finalmente foi pra 990, junto com um novo PR de 1060.
 
-**Regra importante:** o threshold só muda quando sua consistência real evolui — nunca por causa de uma run de sorte isolada.
+O threshold só muda quando sua consistência real evolui, nunca por causa de uma run de sorte isolada.
+
+## Contatos do thrFPS
+
+Discord: `frxnz.`
+Twitter (X): [@thrFPS](https://twitter.com/thrFPS)
+Konect: https://konect.gg/thrFPS
