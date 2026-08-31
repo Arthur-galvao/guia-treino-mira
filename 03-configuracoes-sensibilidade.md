@@ -1,0 +1,66 @@
+# Configurações e Medidas (por @robinwobin_)
+
+## Configurações e erros comuns
+
+- Vídeo de configurações da Viscose
+- Vídeo sobre erros comuns no treino de mira
+
+## Onde jogar e como progredir de dificuldade
+
+- **Iniciantes:** comece pelo "Viscose Entry Benchmarks".
+- **Intermediários/avançados:** comece pelo "Viscose Benchmarks S2".
+- **Acompanhamento:** use o Rastreador Web Benchmark (Raw Input) pra registrar tudo.
+
+### Quando subir de dificuldade?
+
+Não suba antes de:
+
+1. Alcançar o segundo ranque mais alto, **e**
+2. Completar o terceiro ranque mais alto.
+
+Só comece a incorporar cenários mais difíceis quando estiver, no mínimo, 4 ranques abaixo do máximo nos cenários fáceis.
+
+- Vídeo: Viscose Benchmark — Parte 1 | Parte 2
+
+## O que é cm/360?
+
+cm/360 é a medida universal de quantos centímetros você precisa mover o mouse fisicamente pra dar uma volta completa de 360° no jogo. Mude a escala de sensibilidade do KovaaK's pra cm/360 — assim você consegue comunicar e ajustar sua sensibilidade com precisão em qualquer jogo, não só no KovaaK's.
+
+- Conversor de sensibilidade: Find My Mouse
+
+## Sensibilidade por tipo de cenário
+
+Trocar sua sensibilidade dependendo do tipo de cenário te ajuda a desenvolver um controle de mouse mais completo e trabalhar diferentes grupos musculares de forma equilibrada, em vez de treinar sempre do mesmo jeito.
+
+### Voltaic Benchmark — categorias
+
+| Categoria | Sensibilidade recomendada (cm/360) |
+|---|---|
+| Dynamic Clicking | 44 |
+| Static Clicking | 64 |
+| Linear Clicking | 54 |
+| Precise Tracking | 44 |
+| Reactive Tracking | 30 |
+| Control Tracking | 38 |
+| Speed Switching | 40 |
+| Evasive Switching | 44 |
+| Stability Switching | 54 |
+
+### Viscose Benchmark — categorias
+
+| Categoria | Subcategoria | Sensibilidade recomendada (cm/360) |
+|---|---|---|
+| Control Tracking | Arm | 34 |
+| Control Tracking | Wrist | 44 |
+| Control Tracking | Fingertip | 40 |
+| Control Tracking | Blending | 44 |
+| Reactive Tracking | Control | 34 |
+| Reactive Tracking | Speed | 28 |
+| Reactive Tracking | Reading | 30 |
+| Flick Tech | Speed | 45 |
+| Flick Tech | Stability | 55 |
+| Flick Tech | Micro | 65 |
+| Flick Tech | Post-Flick | 44 |
+| Click Timing | Reading | 45 |
+| Click Timing | Precision | 60 |
+| Click Timing | Stability | 50 |
