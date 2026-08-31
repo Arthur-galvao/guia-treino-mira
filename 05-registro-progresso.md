@@ -24,12 +24,6 @@ No dia 18/10 o PR foi 1000 com threshold em 970. No dia 19/10 o PR subiu pra 105
 
 O threshold só muda quando sua consistência real evolui, nunca por causa de uma run de sorte isolada.
 
-## Contatos do thrFPS
-
-Discord: `frxnz.`
-Twitter (X): [@thrFPS](https://twitter.com/thrFPS)
-Konect: https://konect.gg/thrFPS
-
 ---
 
 [← Voltar ao índice](./index.html)
