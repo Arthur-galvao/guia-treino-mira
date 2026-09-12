@@ -2,6 +2,8 @@
 title: Metodologia e Thresholds
 ---
 
+[English](02-methodology-thresholds.html) | [Português](02-metodologia-thresholds.html)
+
 # Metodologia: Foco em Fraquezas e o Método de Thresholds
 
 ## Por que focar nas suas fraquezas (método Viscose, por robinwobin)
@@ -36,4 +38,4 @@ E o Threshold só sobe quando sua consistência real melhora de verdade. Nunca p
 
 ---
 
-[← Voltar ao índice](./index.html)
+[← Voltar ao índice](./index.pt-BR.html)

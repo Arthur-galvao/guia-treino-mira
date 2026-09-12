@@ -2,6 +2,8 @@
 title: Flick Tech - Playlist
 ---
 
+[English](04-flick-tech-coaching.html) | [Português](04-flick-tech-playlist.html)
+
 # Flick Tech, Aim Coaching por thrFPS
 
 Código no KovaaK's: `KovaaKsSwitchingSeagreenHeaven`
@@ -46,4 +48,4 @@ Grinda até bater, no mínimo, 1000 pontos.
 
 ---
 
-[← Voltar ao índice](./index.html)
+[← Voltar ao índice](./index.pt-BR.html)

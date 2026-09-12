@@ -2,12 +2,14 @@
 title: Configurações e Sensibilidade
 ---
 
+[English](03-settings-sensitivity.html) | [Português](03-configuracoes-sensibilidade.html)
+
 # Configurações e Medidas (por @robinwobin_)
 
 ## Configurações e erros comuns
 
-- Vídeo de configurações da Viscose https://www.youtube.com/watch?v=QSS-zJb4lsY
-- Vídeo sobre erros comuns no treino de mira https://www.youtube.com/watch?v=VARQNEdQYbw
+- Vídeo de configurações da Viscose: https://www.youtube.com/watch?v=QSS-zJb4lsY
+- Vídeo sobre erros comuns no treino de mira: https://www.youtube.com/watch?v=VARQNEdQYbw
 
 ## Onde jogar e como progredir de dificuldade
 
@@ -62,4 +64,4 @@ Trocar a sensibilidade dependendo do cenário ajuda a desenvolver um controle de
 
 ---
 
-[← Voltar ao índice](./index.html)
+[← Voltar ao índice](./index.pt-BR.html)

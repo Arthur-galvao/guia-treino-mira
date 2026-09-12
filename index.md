@@ -1,21 +1,23 @@
 ---
-title: Guia Mestre de Treino de Mira
+title: Master Aim Training Guide
 ---
 
-# Guia Mestre de Treino de Mira
+**English** | [Versão em Português](./index.pt-BR.html)
 
-Esse guia junta a base teórica de vários aim coaches e criadores de conteúdo conhecidos da comunidade numa rotina só, prática de seguir. A pesquisa e a montagem do material são minhas.
+# Master Aim Training Guide
 
-Deu dúvida em algo? Me chama no Discord: **unoneon**
+This guide consolidates the theoretical foundations and methodologies of several prominent aim coaches and content creators from the community into a single, structured daily routine. Curated and structured by **Arthur Galvão**.
 
-## O que tem em cada arquivo
+Questions or suggestions? Contact on Discord: **unoneon**
 
-1. [Visão geral da rotina diária](./01-visao-geral-rotina.html): a sequência que você segue todo dia, resumida.
-2. [Metodologia: fraquezas e thresholds](./02-metodologia-thresholds.html): o porquê por trás da rotina.
-3. [Configurações e sensibilidade](./03-configuracoes-sensibilidade.html): cm/360, as tabelas de sensibilidade por categoria e como progredir de dificuldade.
-4. [Flick Tech, a playlist de coaching](./04-flick-tech-playlist.html): task por task, explicando o raciocínio de cada uma.
-5. [Como registrar seu progresso](./05-registro-progresso.html): o formato de anotação de thresholds.
-6. [Treino in-game de movimentação e mecânica](./06-treino-in-game-movimentacao.html): o plano completo, por nível, do Ouro ao Imortal+.
-7. [Referências](./07-referencias.html): créditos de quem construiu essa base teórica.
+## Table of Contents
 
-Comece pelo arquivo 1 e segue a ordem. Cada parte já assume que você leu a anterior.
+1. [Daily Routine Overview](./01-daily-routine-overview.html): the sequence to follow every training day, summarized.
+2. [Methodology: Weaknesses & Thresholds](./02-methodology-thresholds.html): the principles and biomechanical reasoning behind the routine.
+3. [Settings & Sensitivity](./03-settings-sensitivity.html): cm/360, category sensitivity tables, and difficulty progression.
+4. [Flick Tech Coaching Playlist](./04-flick-tech-coaching.html): task-by-task breakdown and biomechanical mechanics.
+5. [How to Track Your Progress](./05-progress-tracking.html): the standardized threshold logging format.
+6. [In-Game Movement and Mechanics Training](./06-in-game-movement-training.html): the complete Valorant movement plan from Gold to Immortal+.
+7. [References & Credits](./07-references.html): credits and sources for the coaches who built this foundation.
+
+Start with Chapter 1 and proceed sequentially. Each part assumes you have read the previous one.

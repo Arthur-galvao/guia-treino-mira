@@ -2,6 +2,8 @@
 title: Treino In-Game
 ---
 
+[English](06-in-game-movement-training.html) | [Português](06-treino-in-game-movimentacao.html)
+
 # Treino In-Game: Movimentação e Mecânica, por KoreyVAL
 
 Esse plano foca em integrar o controle de mouse com a movimentação dentro do Valorant, construindo mecânicas limpas de peek, counterstrafe e snappiness.
@@ -76,4 +78,4 @@ Range freestyle com bots de prática no centro, 3 minutos: alterne entre tapping
 
 ---
 
-[← Voltar ao índice](./index.html)
+[← Voltar ao índice](./index.pt-BR.html)

@@ -2,6 +2,8 @@
 title: Visão Geral da Rotina Diária
 ---
 
+[English](01-daily-routine-overview.html) | [Português](01-visao-geral-rotina.html)
+
 # Visão Geral da Rotina Diária
 
 Essa é a sequência que você segue em toda sessão de treino. Não pula etapa: cada uma prepara o terreno pra próxima.
@@ -32,4 +34,4 @@ Essas quatro etapas fecham o ciclo. As próximas seções explicam o porquê de 
 
 ---
 
-[← Voltar ao índice](./index.html)
+[← Voltar ao índice](./index.pt-BR.html)

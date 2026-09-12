@@ -1,0 +1,26 @@
+# Jekyll / GitHub Pages build outputs
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS Generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sw?
+*.swo
+*.swn
+*.swp
+
+# AI / Workspace metadata
+.opencode/
+.gemini/
+.agents/
+.antigravity/

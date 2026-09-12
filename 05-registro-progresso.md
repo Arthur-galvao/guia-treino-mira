@@ -2,6 +2,8 @@
 title: Registro de Progresso
 ---
 
+[English](05-progress-tracking.html) | [Português](05-registro-progresso.html)
+
 # Registro de Thresholds e Contatos, por Escalate / thrFPS
 
 ## Como anotar seu progresso
@@ -26,4 +28,4 @@ O threshold só muda quando sua consistência real evolui, nunca por causa de um
 
 ---
 
-[← Voltar ao índice](./index.html)
+[← Voltar ao índice](./index.pt-BR.html)
