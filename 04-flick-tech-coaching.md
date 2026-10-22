@@ -48,4 +48,29 @@ Grind this scenario until you achieve a minimum of 1000 points.
 
 ---
 
+## Taxonomy of the 6 Operational Mechanics and Quiet Eye Protocol
+
+To transfer your mastery of the *Flick Tech* playlist across all benchmark categories and live matches, apply the specific biomechanical execution for each of the six core subcategories alongside oculomotor discipline:
+
+### 1. Oculomotor Protocol: Quiet Eye (QE) and Saccadic Economy
+
+Established in sports neuroscience by Joan Vickers, **Quiet Eye (QE)** defines the final foveal fixation on a critical target prior to initiating and completing a motor action:
+
+- **No Reticle Eye-Locking:** Never stare at your own crosshair. Your eyes must remain 100% anchored on the target; the brain guides the cursor to your point of foveal fixation via proprioception and peripheral vision.
+- **Ocular Lead on Flicks:** In multi-target scenarios (*Static* and *Switching*), use peripheral vision to locate the next target and execute the ocular saccade **before** the hand finishes its transition, anchoring foveal gaze on the new target to guide the final closed-loop micro-adjustment.
+- **Saccadic Economy on Clusters:** When two or more targets sit tightly clustered, anchor your gaze on the cluster midpoint or primary target to eliminate redundant ocular jumps that bottleneck reading speed.
+
+### 2. Execution Matrix of the 6 Fundamental Mechanics
+
+| Subcategory | Biomechanical Execution Protocol | Common Pitfall to Avoid |
+|---|---|---|
+| **Static Clicking** | **Bardpill Method (bardOZ):** (1) Fast, straight ballistic impulse with phasic tension only at launch; (2) Smooth deceleration (conservative *under-flick*) without a rigid mechanical dead-stop; (3) Foveal micro-adjustment with visual confirmation before clicking; (4) Zero post-click pause, pathing to the next target with minimal angular deviation. Alternate **98%–100% accuracy** runs with speed-pushing (**85%–90%**). | Drawing "U"-shaped arcs, slamming into rigid stops, firing without visual confirmation, or pausing after clicks. |
+| **Dynamic Clicking** | **Hit Confirming:** Flick to intercept the moving target's path and **briefly match its velocity (micro-tracking)** for a fraction of a second before clicking. On parabolic arcs (*B180 / Popcorn*), time the shot at the apex where vertical velocity reaches zero. | Executing instant *flick-and-pray* shots across the bot's trajectory without stabilizing cursor velocity. |
+| **Smooth / Precise Tracking** | **Angular Velocity Matching:** Glide the mouse continuously at the exact speed of the target, blending arm (macro) and wrist/fingertip (micro) motion with steady skate pressure. | Making dozens of choppy corrective micro-flicks instead of a continuous, uniform glide. |
+| **Reactive Tracking** | **Pure Reactivity + Edge Tracking (Underaiming):** Never predict when the target will change direction. Deliberately aim at the **inner/trailing edge** of the hitbox (relative to its movement vector): when the target reverses direction, it crosses back over your reticle for extra milliseconds, offsetting human reaction latency (~165 ms). | Guessing strafe timing (causing double errors) or aiming at the leading edge and getting left behind on every reversal. |
+| **Speed Switching** | **Pokeball Rule (100% Continuous LMB):** Hold the left mouse button (fire) **100% continuously throughout the entire run**. This eliminates the parasitic tension of repeated clicking and enforces clean straight-line transitions with immediate stopping power. | Releasing and re-pressing fire on every target switch, or over-flicking due to poor braking control. |
+| **Evasive Switching** | **Ballistic Transition + Dynamic Stabilization:** Keep LMB held, execute a rapid ballistic transition between distant targets, and decelerate smoothly directly into *Smooth/Reactive Tracking* until elimination is complete. | Decelerating too early before reaching the sphere or losing tracking during the final 20% of target health. |
+
+---
+
 [← Back to Index](./index.html)

@@ -48,4 +48,29 @@ Grinda até bater, no mínimo, 1000 pontos.
 
 ---
 
+## Taxonomia das 6 Mecânicas Operacionais e Protocolo Quiet Eye
+
+Para transferir o domínio da playlist *Flick Tech* para todos os cenários do benchmark e situações reais de jogo, domine a execução específica de cada uma das seis subcategorias mecânicas e o controle oculomotor:
+
+### 1. Protocolo Oculomotor: Quiet Eye (QE) e Economia Sacádica
+
+Desenvolvido na neurociência do esporte por Joan Vickers, o **Quiet Eye (QE)** define a fixação visual final da fóvea sobre o alvo crítico antes do início e conclusão da ação motora:
+
+- **Proibição de *Eye-Locking* no Retículo:** Nunca olhe para a sua própria mira. Seus olhos devem permanecer 100% ancorados no alvo; o cérebro guia o cursor até o ponto de fixação foveal por propriocepção e visão periférica.
+- **Liderança Ocular no Flick:** Em cenários de múltiplos alvos (*Static* e *Switching*), use a visão periférica para identificar o próximo alvo e execute o movimento sacádico dos olhos **antes** do término da transição manual, ancorando a fóvea no novo alvo para guiar o microajuste final.
+- **Economia Sacádica em Clusters:** Quando dois ou mais alvos estão muito próximos, ancore o olhar no ponto médio ou no primeiro alvo do *cluster* para evitar saltos oculares desnecessários que atrasam a leitura.
+
+### 2. Matriz de Execução das 6 Mecânicas Fundamentais
+
+| Subcategoria | Protocolo Biomecânico de Execução | Erro Comum a Evitar |
+|---|---|---|
+| **Static Clicking** | **Método Bardpill (bardOZ):** (1) Impulso balístico reto e explosivo com tensão fásica apenas na largada; (2) Desaceleração suave (*under-flick* conservador) sem travar o braço em parada rígida; (3) Microajuste foveal com confirmação visual antes do clique; (4) Zero pausa pós-clique, priorizando o próximo alvo de menor variação angular. Alterne runs de **98%–100% de precisão** com runs de velocidade (**85%–90%**). | Desenhar arcos em "U", parar com tranco mecânico, atirar sem confirmação visual ou pausar após o clique. |
+| **Dynamic Clicking** | **Hit Confirming:** Execute o flick até interceptar a trajetória do alvo móvel e **iguale brevemente sua velocidade (micro-tracking)** por uma fração de segundo antes de clicar. Em alvos parabólicos (*B180 / Popcorn*), sincronize o clique no ápice da parábola (onde a velocidade vertical zera). | Fazer *flick-and-pray* instantâneo cruzando a trajetória do bot sem estabilizar o cursor na velocidade dele. |
+| **Smooth / Precise Tracking** | **Igualação de Velocidade Angular:** Mova o mouse de forma contínua na exata velocidade do alvo, combinando braço (macro) e punho/dedos (micro) com pressão constante nos *skates*. | Realizar dezenas de micro-flicks corretivos em vez de um deslize contínuo e uniforme. |
+| **Reactive Tracking** | **Reatividade Pura + Edge Tracking (Underaiming):** É estritamente proibido tentar prever quando o alvo mudará de direção. Mire deliberadamente na **borda interna/traseira** da hitbox (em relação ao vetor de movimento): assim, quando o alvo inverter a direção, ele cruzará seu retículo por alguns milissegundos extras, compensando seu tempo de reação biológica (~165 ms). | Tentar adivinhar o *strafe* (gerando erro duplo) ou mirar na borda dianteira e ser deixado para trás a cada inversão. |
+| **Speed Switching** | **Regra Pokeball (LMB 100% Pressionado):** Mantenha o botão esquerdo do mouse (tiro) **100% pressionado durante toda a run**. Isso elimina a tensão parasitária de clicar repetidamente e força transições puras em linha reta com *stopping power* imediato. | Soltar e apertar o botão de tiro a cada troca de alvo ou fazer *over-flicking* por falta de frenagem limpa. |
+| **Evasive Switching** | **Transição Balística + Estabilização Dinâmica:** Mantenha o LMB pressionado, execute a transição rápida entre alvos distantes e desacelere suavemente entrando direto em *Smooth/Reactive Tracking* até a eliminação completa. | Desacelerar cedo demais antes de chegar na esfera ou perder o rastreamento nos últimos 20% de vida do alvo. |
+
+---
+
 [← Voltar ao índice](./index.pt-BR.html)

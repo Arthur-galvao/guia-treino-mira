@@ -78,4 +78,30 @@ Range freestyle com bots de prática no centro, 3 minutos: alterne entre tapping
 
 ---
 
+## Fundamentos de Netcode, Peeker's Advantage e Geometria de Duelo
+
+### 1. Tempo de Reação Biológico vs. A Matemática do Peeker's Advantage
+
+- **Tempo de Reação Simples (SRT):** Enquanto um adulto médio apresenta SRT visual entre **200 e 250 ms**, jogadores profissionais de FPS operam na faixa de **150 a 180 ms** (mediana de **165 ms**). Estímulos auditivos são processados pelo córtex **40 a 50 ms mais rápido** que estímulos visuais — razão pela qual dicas sonoras de passos antecipam o disparo.
+- **Peeker's Advantage (Vantagem de Quem Abre o Pixel):** Devido à latência de rede cliente-servidor-cliente e ao buffer de interpolação de entidades:
+  - Em condições ideais de ping baixo e simétrico, quem abre o ângulo em velocidade máxima já possui **63 a 68 ms** de vantagem estrutural antes de aparecer na tela do defensor estático.
+  - Em partidas online reais (CS2 / Valorant), a vantagem composta varia entre **39 e 218 ms**, podendo atingir **229 a 270 ms** em cenários de assimetria de ping crítica — superando o próprio tempo de reação biológico humano.
+
+### 2. Posicionamento de Mira (Crosshair Placement) e Wide-Swing Offset
+
+Pela Lei de Fitts ($MT = a + b \log_2(2A/W)$), um *Crosshair Placement* perfeito reduz a distância $A$ para próximo de zero, eliminando a necessidade de um *flick* balístico longo. Porém, por causa da combinação do *Peeker's Advantage* (~65 ms+) com o seu próprio tempo de reação (~165 ms), **nunca segure um ângulo passivamente com a mira colada na quina da parede**:
+
+- **Wide-Swing Offset (Folga para Abertura Larga):** Ao segurar um ângulo contra um adversário que vai abrir correndo (*wide swing*), posicione o retículo a uma distância horizontal da borda equivalente à distância que o modelo inimigo percorre durante `SRT + Peeker's Advantage` (~220 ms). Assim, o inimigo corre diretamente para dentro da sua mira no exato instante em que seu dedo dispara.
+- **Tight Placement (Mira Colada):** Só posicione a mira rente à quina se você tiver leitura de que o oponente fará um *jiggle peek* curto para coleta de informação ou se você mesmo estiver abrindo o pixel (*slicing the pie*).
+- **Mitigação Tática Defensiva:** Para neutralizar o *Peeker's Advantage* inimigo, utilize *off-angles* (ângulos fora do *pre-aim* padrão do atacante) ou execute *jiggle peeks* periódicos na cobertura, transformando você no *peeker* aos olhos do servidor.
+
+### 3. Geometria de Movimentação: Mirroring vs. Anti-Mirroring
+
+Durante duelos de média e longa distância ou trocas em jogos de *Tracking* / *Dynamic Clicking*:
+
+- **Mirroring (Espelhamento):** Você se move para a **mesma direção** no mundo que o seu oponente (ex.: se ele vai para a sua direita, você também aperta `D`). As velocidades angulares relativas se anulam quase totalmente, fazendo com que o alvo pareça quase imóvel na sua tela. Facilita enormemente a precisão do seu tiro, mas atenção: **também facilita o tiro do inimigo contra você**. Use *Mirroring* quando você tiver vantagem de vida, arma superior ou o primeiro tiro já engatado.
+- **Anti-Mirroring (Contra-Espelhamento):** Você se move na **direção oposta** à do adversário. Isso multiplica a velocidade angular relativa entre os dois modelos, exigindo correção rápida de mira, mas tornando seu modelo extremamente difícil de ser rastreado. Use *Anti-Mirroring* quando estiver em desvantagem no duelo ou após errar a primeira rajada (transição de *shadowing* dos Níveis 1.5–2.5).
+
+---
+
 [← Voltar ao índice](./index.pt-BR.html)

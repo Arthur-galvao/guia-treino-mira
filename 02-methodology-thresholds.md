@@ -38,4 +38,51 @@ A Threshold increases only when your genuine consistency advances, never as a re
 
 ---
 
+## Foundations of Visuomotor Psychophysics and Motor Control
+
+### 1. Fitts's Law and the Speed-Accuracy Trade-Off
+
+In human pointing psychophysics (Paul Fitts, 1954), the movement time ($MT$) required to acquire a target is governed by the ratio between target distance ($A$) and target width ($W$):
+
+$$MT = a + b \log_2\left(\frac{2A}{W}\right)$$
+
+The logarithmic term defines the **Index of Difficulty ($ID$)**: smaller or more distant targets require more bits of motor information processed by the central nervous system. To evaluate a player's actual shot dispersion across a training session, Crossman's **Effective Index of Difficulty ($ID_e$)** is used:
+
+$$ID_e = \log_2\left(\frac{A_e}{W_e} + 1\right), \quad \text{where } W_e = 4.133 \times SD_x$$
+
+Here, $W_e$ represents the effective target width derived from the standard deviation ($SD_x$) of impact coordinates, and $ID = \log_2(2d/e)$ quantifies the direct relationship between distance ($d$) and error tolerance ($e$). The Threshold Method works by compressing motor standard deviation ($SD_x$), tightening your click distribution inside the hitbox without sacrificing acquisition time ($MT$).
+
+### 2. Signal-Dependent Noise
+
+Landmark motor neuroscience research (Harris & Wolpert, 1998) demonstrates that neural control signals sent to skeletal muscles are subject to **Signal-Dependent Noise**: motor force variability ($\sigma_v$) scales directly with the magnitude of the control signal added to baseline noise ($\sigma_0$).
+
+- When you violently throw the mouse with uncontrolled force (rushing shots or applying a *death grip*), neuromotor noise spikes, causing the cursor to overshoot the target or jitter during braking.
+- The optimal trajectory that minimizes endpoint variance requires **kinematic smoothness** (minimum-jerk trajectory), applying phasic tension only at initial launch and relaxing immediately during deceleration.
+
+### 3. Two-Phase Flick Kinematics and Conservative Hypometria
+
+Every high-level flick consists of two distinct neurophysiological phases:
+
+1. **Phase 1 — Primary Ballistic Impulse (*Open-Loop*):** A high-velocity movement driven by large proximal muscle groups (shoulder/forearm) that transports the cursor into the target's vicinity. Because it unfolds faster than visual feedback latency, it operates without mid-flight visual correction.
+2. **Phase 2 — Secondary Micro-Adjustment (*Closed-Loop*):** A fine correction executed by the wrist and fingertips, guided by foveal visual feedback to align the reticle precisely onto the target prior to clicking.
+
+**The Discovery of Conservative Hypometria (*Under-Flicking* vs. *Over-Flicking*):**
+Biomechanical studies comparing wide-target tasks (*Gridshot*) against extreme-precision tasks (*Sixshot*) reveal a deliberate strategic shift ($p = 0.88$ consistency in trained players):
+- On small targets (*Sixshot* / tactical FPS headshots), elite players adopt a conservative **hypometric (*under-flicking*)** strategy, landing the primary ballistic impulse slightly **short** of the target.
+- Chaining the secondary micro-adjustment in the **same direction** as the primary movement saves tens of milliseconds compared to **over-flicking** (which requires overcoming momentum to reach a full stop and reversing antagonist muscle groups in the opposite direction).
+
+### 4. The 3 Stages of Motor Learning and the Myth of Fixed "Muscle Memory"
+
+The popular belief that muscles memorize a fixed physical distance in centimeters—and that changing sensitivity "destroys muscle memory"—is scientifically false (Krakauer et al.). Even at a constant in-game sensitivity, mousepad friction fluctuates daily with ambient humidity, skin temperature, sweat, and PTFE skate wear.
+
+Instead, the brain builds a **Generalized Motor Program (GMP)** capable of rapidly rescaling movement parameters across three stages:
+
+| Stage | Timeframe | Neurocognitive Characteristics |
+|---|---|---|
+| **1. Cognitive** | Days 1 to 7 | High conscious effort, fragmented sub-movements, large score variance, and heavy reliance on visual monitoring. |
+| **2. Associative** | Weeks 2 to 8 | Refined coupling between ballistic impulse and micro-adjustment, marked reduction in parasitic muscle tension, and Threshold stabilization. |
+| **3. Autonomous** | Months 2+ | Automated subcortical execution with minimal attentional cost, freeing 100% of working memory for tactical in-game reading. |
+
+---
+
 [← Back to Index](./index.html)
